@@ -1,4 +1,6 @@
-git is a version control system
+git is a distributed version control system
 git is a free software
-git is a distrubuted version control system
-git is free for everyone!
+
+
+learn about git add, git commit and git diff commands
+
